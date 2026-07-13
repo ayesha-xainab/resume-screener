@@ -54,8 +54,6 @@ python app.py
 | Ayesha   | Team Lead              |
 | Khuzaima | Documentation & README |
 | Lubaba   | Developer              |
-| Shumaila | Developer              |
-| Member 5 | Developer              |
 
 ## Branching Strategy
 
