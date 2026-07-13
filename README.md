@@ -76,3 +76,6 @@ All changes should be submitted through Pull Requests. Direct pushes to the main
 ## Project Status
 
 🚧 Currently under development. Features and documentation will be updated as the project progresses.
+## Project Features
+* Feature 1: Description here
+* Feature 2: Description here
