@@ -76,6 +76,23 @@ All changes should be submitted through Pull Requests. Direct pushes to the main
 ## Project Status
 
 🚧 Currently under development. Features and documentation will be updated as the project progresses.
-## Project Features
-* Feature 1: Description here
-* Feature 2: Description here
+# Resume Screener
+
+A smart tool to automate the process of screening resumes.
+
+## Features
+- **Automated Parsing:** Easily extract information from PDF/Docx resumes.
+- **Skill Matching:** Compare candidate skills against job descriptions.
+- **Efficiency:** Save time by filtering out unqualified candidates quickly.
+
+## How to Use
+1. Clone this repository: `git clone https://github.com/ayesha-xainab/resume-screener.git`
+2. Install the required dependencies.
+3. Run the script with your resume files.
+
+## Built With
+- Python
+- [Add other tools/libraries you used, e.g., Pandas, PyPDF2]
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
