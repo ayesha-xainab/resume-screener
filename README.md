@@ -52,7 +52,7 @@ python app.py
 | Member   | Role                   |
 | -------- | ---------------------- |
 | Ayesha   | Team Lead              |
-| Khuzaima | Documentation & README |
+| Khuzaima | Documentation & README and developer |
 | Lubaba   | Developer              |
 
 ## Branching Strategy
